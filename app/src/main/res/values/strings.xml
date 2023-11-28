@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="logo">Little Lemon Logo</string>
+    <string name="let_get_to_know_you">Let\'s get to know you</string>
+    <string name="personal_information">Personal information</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="onboarding">Onboarding</string>
+    <string name="preference_file">preference_file_key</string>
+    <string name="registration_successful">Registration successful!</string>
+</resources>
